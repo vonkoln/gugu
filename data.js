@@ -1,6 +1,6 @@
 export default  [ 
   {
-    title:"Inno ADORO TE DEVOTE",
+    title:"Inno Adoro Te Devote",
     artist: "Tommaso D'Aquino",
     cover: "tom.jfif",
     file: "tom.mp3",
@@ -25,7 +25,7 @@ export default  [
   },  
   {
     title:"Coro",
-    artist: "MONJES DEL MONASTERIO DE SANTO DOMINGO DE SILOS",
+    artist: "Monjes Del Monasterio De Santo Domingo De Silos",
     cover: "coro.jpg",
     file: "coro.mp3",
   },  
